@@ -22,7 +22,7 @@ export default function Home() {
           </li>
           <li className="dark:text-green-400">Save and see your changes instantly.</li>
         </ol>
-        <p>Cheers from <a href='https://connorontheweb.com' className="dark:text-blue-400 border-b-solid border-b-2 border-blue-600 dark:border-b-none dark:border-none">Seattle</a></p>
+        <p>Cheers from <a href='https://connorontheweb.com' className="dark:text-blue-300 border-b-solid border-b-2 border-blue-400 dark:border-b-none dark:border-none">Seattle</a></p>
       </main>
     </div>
   );

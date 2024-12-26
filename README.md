@@ -8,6 +8,21 @@ npm install tailwindcss@next @tailwindcss/postcss@next
 npm install next-themes
 ```
 
+Add this file from this repo...
+
+```bash
+src/components/theme-select.jsx
+```
+
+Modify these files to match this repo...
+
+```bash
+postcss.config.mjs
+src/app/globals.css
+src/app/layout.tsx
+```
+
+
 ## Getting Started
 
 Start by cloning this repo...
@@ -30,6 +45,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
 
 This will detect the user's system light/dark mode setting and provide select options to switch themes. Elements will respond to Tailwind's `dark:` class prefix while in dark mode.

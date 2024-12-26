@@ -1,16 +1,22 @@
+/* Tailwind 4 imports like so */
 @import "tailwindcss";
+
+/* This configures Tailwind's 'dark:' prefix */
 @variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
 
+/* Default (light mode) css variables... */
 :root {
   --background: #ffffff;
   --foreground: #171717;
 }
 
+/* Dark mode is defined by the html element's data-theme attribute */
 [data-theme='dark'] {
   --background: #0a0a0a;
   --foreground: #ededed;
 }
 
+/* Setting theme variables in the actual css */
 body {
   color: var(--foreground);
   background: var(--background);

@@ -6,6 +6,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ```bash
 npx create-next-app@latest
+```
+
+Press `enter` through all options. Use the `app directory` and `src` folder.
+
+```bash
 npm install tailwindcss@next @tailwindcss/postcss@next
 npm install next-themes
 ```

@@ -2,6 +2,8 @@ Special thanks to Fin for writing [Implementing Dark Mode and Theme Switching us
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
 
+## From scratch
+
 ```bash
 npx create-next-app@latest
 npm install tailwindcss@next @tailwindcss/postcss@next
@@ -23,7 +25,7 @@ src/app/layout.tsx
 ```
 
 
-## Getting Started
+## From clone
 
 Start by cloning this repo...
 

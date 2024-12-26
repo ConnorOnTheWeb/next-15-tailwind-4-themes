@@ -4,11 +4,13 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## From scratch
 
+Spin up a Next 15 instance. Press `enter` through all options. Use the `app directory` and `src` folder.
+
 ```bash
 npx create-next-app@latest
 ```
 
-Press `enter` through all options. Use the `app directory` and `src` folder.
+Install Tailwind 4 (currently beta), Tailwind's postcss plugin, and next-themes
 
 ```bash
 npm install tailwindcss@next @tailwindcss/postcss@next

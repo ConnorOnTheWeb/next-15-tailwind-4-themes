@@ -2,7 +2,7 @@ This boiler provides nothing but a Next 15 web app, with Tailwind 4 ready to go,
 
 Elements will respond to Tailwind's `dark:` class prefix while in dark mode.
 
-Feel free to start your theme-capable project from here, I'll keep this repo as a boilerplate until Tailwind 4 leaves beta.
+Feel free to start your theme-capable project from here. I'll keep this repo as a boilerplate for all my NextJS builds until Tailwind 4 leaves beta.
 
 Special thanks to Fin for writing [Implementing Dark Mode and Theme Switching using Tailwind v4 and Next.js](https://www.thingsaboutweb.dev/en/posts/dark-mode-with-tailwind-v4-nextjs), just needed to tweak a few things for this to work.
 

@@ -2,9 +2,13 @@ This web app will detect the user's system light/dark mode setting and provide s
 
 Special thanks to Fin for writing [Implementing Dark Mode and Theme Switching using Tailwind v4 and Next.js](https://www.thingsaboutweb.dev/en/posts/dark-mode-with-tailwind-v4-nextjs), just needed to tweak a few things for this to work.
 
+--
+
 ## Next 15 Tailwind 4 Boilerplate
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
+
+--
 
 ## From scratch
 
@@ -43,6 +47,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+--
 
 ## From clone
 

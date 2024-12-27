@@ -1,4 +1,8 @@
+This web app will detect the user's system light/dark mode setting and provide select options to switch themes. Elements will respond to Tailwind's `dark:` class prefix while in dark mode. Feel free to start your theme-capable project from here, I'll keep this repo as a boilerplate until Tailwind 4 leaves beta.
+
 Special thanks to Fin for writing [Implementing Dark Mode and Theme Switching using Tailwind v4 and Next.js](https://www.thingsaboutweb.dev/en/posts/dark-mode-with-tailwind-v4-nextjs), just needed to tweak a few things for this to work.
+
+## Next 15 Tailwind 4 Boilerplate
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
 
@@ -63,5 +67,3 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
-
-This web app will detect the user's system light/dark mode setting and provide select options to switch themes. Elements will respond to Tailwind's `dark:` class prefix while in dark mode. Feel free to start your theme-capable project from here, I'll keep this repo as a boilerplate until Tailwind 4 leaves beta.

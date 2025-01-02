@@ -32,6 +32,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap>  {
     },
   ]
 
+  // Next 15 sitemap() says there's a type error
+  // syntax is correct and sitemap is loading fine
   // @ts-ignore
   return links;
 }
